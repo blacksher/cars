@@ -1,3 +1,8 @@
 # cars
 
-This file allows you to add a list of cars, display the list of cars, and exit the program while still having your list of cars saved.
+## **Inside of this file you will be able to:**
+
+1. **Add** *cars to the My_old_cars list*
+2. **Display** *the list of inputted cars from your list*
+3. **Exit** *the program at any given time*
+
